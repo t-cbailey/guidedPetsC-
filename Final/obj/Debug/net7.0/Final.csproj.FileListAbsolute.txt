@@ -1,0 +1,14 @@
+/Users/timbailey/coding/CsharpProjects/GuidedProjectPets/Final/bin/Debug/net7.0/Final
+/Users/timbailey/coding/CsharpProjects/GuidedProjectPets/Final/bin/Debug/net7.0/Final.deps.json
+/Users/timbailey/coding/CsharpProjects/GuidedProjectPets/Final/bin/Debug/net7.0/Final.runtimeconfig.json
+/Users/timbailey/coding/CsharpProjects/GuidedProjectPets/Final/bin/Debug/net7.0/Final.dll
+/Users/timbailey/coding/CsharpProjects/GuidedProjectPets/Final/bin/Debug/net7.0/Final.pdb
+/Users/timbailey/coding/CsharpProjects/GuidedProjectPets/Final/obj/Debug/net7.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timbailey/coding/CsharpProjects/GuidedProjectPets/Final/obj/Debug/net7.0/Final.AssemblyInfoInputs.cache
+/Users/timbailey/coding/CsharpProjects/GuidedProjectPets/Final/obj/Debug/net7.0/Final.AssemblyInfo.cs
+/Users/timbailey/coding/CsharpProjects/GuidedProjectPets/Final/obj/Debug/net7.0/Final.csproj.CoreCompileInputs.cache
+/Users/timbailey/coding/CsharpProjects/GuidedProjectPets/Final/obj/Debug/net7.0/Final.dll
+/Users/timbailey/coding/CsharpProjects/GuidedProjectPets/Final/obj/Debug/net7.0/refint/Final.dll
+/Users/timbailey/coding/CsharpProjects/GuidedProjectPets/Final/obj/Debug/net7.0/Final.pdb
+/Users/timbailey/coding/CsharpProjects/GuidedProjectPets/Final/obj/Debug/net7.0/Final.genruntimeconfig.cache
+/Users/timbailey/coding/CsharpProjects/GuidedProjectPets/Final/obj/Debug/net7.0/ref/Final.dll
